@@ -8,12 +8,12 @@ I am a Frontend developer with experience in **Vue.js** and **React.js**, backen
 
 :heavy_check_mark: A little list about myself:
 
-* :books: Learn lover - I am a big fan of learning new things and get better on them;
+* :books: Learning lover - I am a big fan of learning new things and get better on them;
 * :earth_americas: Teamworker - If I can do good things alone, I can do much better things along with a good team;
-* :muscle: Resilient and open-minded - The world changes faster and so we need to;
+* :muscle: Resilient and open-minded - The world changes fast and so we need too;
 * :neckbeard: A little bit nerd - My nickname **gughog**? Is from my D&D character, haha!;
-* :cat: Pet lover - I fight the animal cause and do my best to make my little friends live with dignity;
-* :meat_on_bone: Great Cooking Chef wannabe - Not so great but I love to cook and I try to do my best at this;
+* :cat: Pet lover - I am with the animal cause and do my best to make my fur friends live with dignity;
+* :meat_on_bone: Great Cooking Chef wannabe - I'm not so great but I love to cook and I try to do my best at this;
 
 I also love to read and write (currently I write on my blog (You can read here: [**gughog.github.io**](https://gughog.github.io/)) where I try to bring technical programming posts to beginners and to pro developers too), feel free to read!
 
