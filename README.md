@@ -1,16 +1,25 @@
-### Hi there 👋
+![gughog's portfolio cover](https://i.imgur.com/Vg19UCo.png)
 
-<!--
-**gughog/gughog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Gustavo Oliveira, Javascript Developer! :sunglasses:
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/gughog?label=Follow%20me%21&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Frontend developer with experience in **Vue.js** and **React.js**, backend knowledge in **Node.js**, and **Express**, database knowledge in **PostgreSQL** and **MongoDB**, experience with **Typescript**, to maximize coding level and consistency and Git and Github to keep everything versioned. I also have a Bachelor's degree in **Business Administration**, which helps me a lot to have business insights.
+
+:heavy_check_mark: A little list about myself:
+
+* :books: Learn lover - I am a big fan of learning new things and get better on them;
+* :earth_americas: Teamworker - If I can do good things alone, I can do much better things along with a good team;
+* :muscle: Resilient and open-minded - The world changes faster and so we need to;
+* :neckbeard: A little bit nerd - My nickname **gughog**? Is from my D&D character, haha!;
+* :cat: Pet lover - I fight the animal cause and do my best to make my little friends live with dignity;
+* :meat_on_bone: Great Cooking Chef wannabe - Not so great but I love to cook and I try to do my best at this;
+
+I also love to read and write (currently I write on my blog (You can read here: [**gughog.github.io**](https://gughog.github.io/)) where I try to bring technical programming posts to beginners and to pro developers too), feel free to read!
+
+### Some of my projects you may want to see
+
+* [SMTIV Tools - A Fullstack app made with PERN stack](https://github.com/gughog/smtivtools-frontend);
+* [Clr-js - A dead-simple Node.js color library for your nice terminal outputs](https://github.com/gughog/clr-js);
+* [Movies Dev - A movies manager app created with React, Typescript, Styled Components and TMDB API](https://github.com/gughog/react-movies-dev-app);
+* [gughog.github.io - My programming blog!](https://gughog.github.io/)
