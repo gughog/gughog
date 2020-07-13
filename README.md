@@ -3,6 +3,10 @@
 # Hi there, I'm Gustavo Oliveira, Javascript Developer! :sunglasses:
 
 ![GitHub followers](https://img.shields.io/github/followers/gughog?label=Follow%20me%21&style=social)
+[![Blog Badge](https://img.shields.io/badge/Blog-gughog.github.io-blue)](https://gughog.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-gughog.github.io/portfolio-purple)](https://gughog.github.io/portfolio/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gughog42)](https://twitter.com/gughog42)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-giovanne)](https://www.linkedin.com/in/gustavo-giovanne/)
 
 I am a Frontend developer with experience in **Vue.js** and **React.js**, backend knowledge in **Node.js**, and **Express**, database knowledge in **PostgreSQL** and **MongoDB**, experience with **Typescript**, to maximize coding level and consistency and Git and Github to keep everything versioned. I also have a Bachelor's degree in **Business Administration**, which helps me a lot to have business insights.
 
@@ -19,7 +23,7 @@ I also love to read and write (currently I write on my blog (You can read here: 
 
 ### Some of my projects you may want to see
 
-* [SMTIV Tools - A Fullstack app made with PERN stack](https://github.com/gughog/smtivtools-frontend);
-* [Clr-js - A dead-simple Node.js color library for your nice terminal outputs](https://github.com/gughog/clr-js);
 * [Movies Dev - A movies manager app created with React, Typescript, Styled Components and TMDB API](https://github.com/gughog/react-movies-dev-app);
 * [gughog.github.io - My programming blog!](https://gughog.github.io/)
+* [SMTIV Tools - A Fullstack app made with PERN stack](https://github.com/gughog/smtivtools-frontend);
+* [Clr-js - A dead-simple Node.js color library for your nice terminal outputs](https://github.com/gughog/clr-js);
