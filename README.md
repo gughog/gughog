@@ -3,7 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/gughog?label=Follow%20me%21&style=social)
 [![Blog Badge](https://img.shields.io/badge/Blog-gughog.github.io-blue)](https://gughog.github.io)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-gughog.github.io/portfolio-purple)](https://gughog.github.io/portfolio/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gughog42)](https://twitter.com/gughog42)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-giovanne)](https://www.linkedin.com/in/gustavo-giovanne/)
 
 I am a Frontend developer with experience in **React.js** and **Vue.js**, backend knowledge in **Node.js**, **PostgreSQL** and **MongoDB**, experience with **Typescript**, to maximize coding level and consistency and Git and Github to keep everything versioned. I also have a Bachelor's degree in **Business Administration**, which helps me a lot to have business insights.
@@ -41,7 +40,6 @@ I also love to read and write (currently I write on my blog (You can read here: 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gughog&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15" alt="gughog" /></a>
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gughog&show_icons=true&theme=dark&locale=en" alt="gughog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gughog&theme=dark" alt="gughog" /></p>
 
